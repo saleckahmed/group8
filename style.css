@@ -13,6 +13,7 @@
     background-image: url(secondpic.jpg);
     background-position: center;
     background-size: cover;
+    background-color: #1a1a1a;
 }
 .img-box{
     width: 50px;
@@ -168,6 +169,7 @@ td:hover,.container:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #1a1a1a;
 }
 .web-header h2{
     font-size: 4vw;
@@ -296,6 +298,7 @@ hr{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #1a1a1a;
 }
 .game-header h2{
     font-size: 4vw;
